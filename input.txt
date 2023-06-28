@@ -1,0 +1,169 @@
+
+##newentry##;C. GallantPrimaireen PM;2023-09-01;Glace - Lévis;12h30 à 14h15;C. Gallant  ;G. Beaupré ;PL. Giguère;;ÉPL - Terrain ext. ou classe;ÉPL - Gym. #? - P6			
+##newentry##;C. GallantPrimaireen PM;2023-09-05;HG - PATRO;13h00 à 15h00;C. Gallant  ;;ÉPL - Terrain ext. ou classe;15h20 à 16h00;;		
+##newentry##;C. GallantPrimaireen PM;2023-09-07;Glace - Lévis;13h00 à 14h15;C. Bilodeau;S. Labrecque;X. Robitaille;;ÉPL - Terrain ext. ou classe;ÉPL - Gym. # - P	
+##newentry##;C. GallantPrimaireen PM;2023-09-08;Glace - BSR;13h00 à 14h00;C. Gallant (+HG BSR);O. Desroches;G. Beaupré - défenseurs; ;;BSR - Terrain extérieur		
+##newentry##;C. GallantPrimaireen PM;2023-09-11;Glace - Lévis;12h30 à 14h15;C. Gallant  ;S. Labrecque; ; ;ÉPL - Terrain ext. ou classe;15h20 à 16h00	
+##newentry##;C. GallantPrimaireen PM;2023-09-12;HG - PATRO;13h00 à 15h00;C. Bilodeau;;ÉPL - Terrain ext. ou classe;15h20 à 16h00;;		
+##newentry##;C. GallantPrimaireen PM;2023-09-14;HG - CÉGEP DE LÉVIS;13h00 à 14h45;C. Gallant;;;;Départ de St-Joseph à 12h05;Retour vers ÉPL à 15h15	
+##newentry##;C. GallantPrimaireen PM;2023-09-15;Glace - BSR;13h00 à 15h00;C. Bilodeau (+HG BSR);F. Fortier;G. Beaupré;Départ de St-Joseph : 12h05;Retour vers ÉPL : 15h30;BSR - Terrain extérieur		
+##newentry##;C. GallantPrimaireen PM;2023-09-18;Glace - Lévis;12h30 à 14h15;C. Gallant  ;S. Labrecque; ; ;ÉPL - Terrain ext. ou classe;15h20 à 16h00	
+##newentry##;C. GallantPrimaireen PM;2023-09-19;HG - PATRO;13h00 à 15h00;C. Bilodeau;;ÉPL - Terrain ext. ou classe;15h20 à 16h00;;		
+##newentry##;C. GallantPrimaireen PM;2023-09-21;DEK HOCKEY PATRO;13h00 à 15h00;C. Gallant; ;;;ÉPL - Terrain ext. ou classe;15h20 à 16h00	
+##newentry##;C. GallantPrimaireen PM;2023-09-22;Glace - BSR;13h00 à 15h00;C. Gallant;PL. Giguère;F. Fortier;Départ de St-Joseph : 12h05;Retour vers ÉPL : 15h30;BSR - Terrain extérieur		
+##newentry##;C. GallantPrimaireen PM;2023-09-25;Glace - Lévis;12h30 à 14h15;C. Gallant  ;S. Labrecque; ; ;ÉPL - Terrain ext. ou classe;15h20 à 16h00	
+##newentry##;C. GallantPrimaireen PM;2023-09-26;HG - PATRO;13h00 à 15h00;C. Bilodeau;;ÉPL - Terrain ext. ou classe;15h20 à 16h00;;		
+##newentry##;C. GallantPrimaireen PM;2023-09-28;HG - CÉGEP DE LÉVIS;13h00 à 14h45;C. Gallant;;;;Départ de St-Joseph à 12h05;Retour vers ÉPL à 15h15	
+##newentry##;C. GallantPrimaireen PM;2023-09-29;Glace - BSR;13h00 à 15h00;C. Bilodeau (+HG BSR);F. Fortier; ;Départ de St-Joseph : 12h05;Retour vers ÉPL : 15h30;BSR - Terrain extérieur
+
+##newentry##;M18 D2 - RSÉQN. Carrieren PM ;2023-09-01;ÉPL - EXT. - 13h00 à 13h45;Glace - Lévis (avec M18-D1);14h25 à 15h50;N. Carrier;C. Bilodeau;G. Beaupré;;			
+##newentry##;M18 D2 - RSÉQN. Carrieren PM ;2023-09-05;Glace - BSR;BSR - Entrainement / Vidéo / Études;14h15 à 15h20;N. Carrier;C. Bilodeau; ;Départ de ÉPL: 13h00;Retour vers ÉPL : 15h40	
+##newentry##;M18 D2 - RSÉQN. Carrieren PM ;2023-09-06;Glace - BSR;13h00 à 14h05;N. Carrier;C. Gallant - gardiens; ;BSR - Entrainement / Vidéo / Études;Départ de ÉPL: 12h15;Retour vers ÉPL : 15h30	
+##newentry##;M18 D2 - RSÉQN. Carrieren PM ;2023-09-07;Glace - BSR;13h00 à 14h05;N. Carrier;G. Beaupré; ;Départ de ÉPL: 12h15;Retour vers ÉPL : 14h30;Muscu PALS: 15h00 à 16h00	
+##newentry##;M18 D2 - RSÉQN. Carrieren PM ;2023-09-08;Glace - Lévis ;Partie PRÉ-SAISON;SSF vs Corsaires M18 D2;Lévis - 13h30;N. Carrier;C. Bilodeau ; ; 		
+##newentry##;M18 D2 - RSÉQN. Carrieren PM ;2023-09-11;Glace St-Henri;13h30 à 15h00;N. Carrier;C. Bilodeau; ;;Départ de ÉPL: 12h40;Retour vers ÉPL : 15h30	
+##newentry##;M18 D2 - RSÉQN. Carrieren PM ;2023-09-12;Glace - BSR;BSR - Entrainement / Vidéo / Études;14h15 à 15h20;N. Carrier;C. Gallants - gardiens; ;Départ de ÉPL: 13h00;Retour vers ÉPL : 15h40	
+##newentry##;M18 D2 - RSÉQN. Carrieren PM ;2023-09-13;Glace - Lévis;13h00 à 14h20;N. Carrier;C. Bilodeau; ;;;Muscu PALS: 15h00 à 16h00	
+##newentry##;M18 D2 - RSÉQN. Carrieren PM ;2023-09-14;Partie PRÉ-SAISON;Corsaires M18 D2 vs Cardinal-Roy;14h45 - Pavillon ;N. Carrier / C. Bilodeau;;Départ de l'ÉPL à 13h00;Retour vers l'ÉPL à 16h30;Arrêt au Maxi à 17h10 + ÉPL à 17h30	
+##newentry##;M18 D2 - RSÉQN. Carrieren PM ;2023-09-15;Partie PRÉ-SAISON;Corsaires M18 D2 vs ASL;14h00 - 3-GLACES;N. Carrier / C. Bilodeau;;Départ de l'ÉPL à 12h30;Retour vers l'ÉPL à 16h45;Arrêt au Maxi à 17h25 + ÉPL à 17h45		
+##newentry##;M18 D2 - RSÉQN. Carrieren PM ;2023-09-18;Glace St-Henri;13h30 à 15h00;N. Carrier;C. Bilodeau; ;;Départ de ÉPL: 12h40;Retour vers ÉPL : 15h30	
+##newentry##;M18 D2 - RSÉQN. Carrieren PM ;2023-09-19;Glace - BSR;BSR - Entrainement / Vidéo / Études;14h15 à 15h20;N. Carrier;C. Gallants - gardiens; ;Départ de ÉPL: 13h00;Retour vers ÉPL : 15h40	
+##newentry##;M18 D2 - RSÉQN. Carrieren PM ;2023-09-20;Glace - BSR;13h00 à 14h05;N. Carrier;C. Gallant - gardiens; ;Départ de ÉPL: 12h15;Retour vers ÉPL : 14h30;Muscu PALS: 15h00 à 16h00	
+##newentry##;M18 D2 - RSÉQN. Carrieren PM ;2023-09-21;Glace - BSR;13h30 à 15h00;N. Carrier;G. Beaupré;C. Bilodeau; ;Départ de ÉPL: 13h00;Retour vers ÉPL : 15h30	
+##newentry##;M18 D2 - RSÉQN. Carrieren PM ;2023-09-22;Partie PRÉ-SAISON;Corsaires M18 D2 vs SSF;13h15 - SSF;N. Carrier / C. Bilodeau;Sortie à 11h30 P3;Départ de l'ÉPL à 11h45;Retour vers l'ÉPL à 15h15;Arrêt au Maxi à 15h55 + ÉPL à 16h15		
+##newentry##;M18 D2 - RSÉQN. Carrieren PM ;2023-09-25;Glace St-Henri;13h30 à 15h00;N. Carrier;C. Bilodeau; ;;Départ de ÉPL: 12h40;Retour vers ÉPL : 15h30	
+##newentry##;M18 D2 - RSÉQN. Carrieren PM ;2023-09-26;Glace - BSR;13h30 à 15h00;N. Carrier;C. Gallant - gardiens; ; ;Départ de ÉPL: 13h00;Retour vers ÉPL : 15h30	
+##newentry##;M18 D2 - RSÉQN. Carrieren PM ;2023-09-27;Glace - Lévis;12h30 à 14h20;N. Carrier;C.  Bilodeau; ;;;Muscu PALS: 15h00 à 16h00	
+##newentry##;M18 D2 - RSÉQN. Carrieren PM ;2023-09-28;Partie SAISON #1;Corsaires M18 D2 vs Cardinal-Roy;14h45 - Pavillon ;N. Carrier / C. Bilodeau;;Départ de l'ÉPL à 13h00;Retour vers l'ÉPL à 16h30;Arrêt au Maxi à 17h10 + ÉPL à 17h30	
+##newentry##;M18 D2 - RSÉQN. Carrieren PM ;2023-09-29;Salle PERFO 13h00 à 14h00;DEK HOCKEY PATRO;14h00 à 15h30;N. Carrier; ;;;
+
+##newentry##;M15 D1 - RSÉQP. Robergeen PM;2023-09-01;Salle PERFO 13h00 à 14h00;DEK HOCKEY PATRO;14h00 à 15h30;P. Roberge; ;;;			
+##newentry##;M15 D1 - RSÉQP. Robergeen PM;2023-09-05;Glace - Lévis;12h30 à 14h20;P. Roberge;G. Beaupré;O. Desroches;;;Muscu PALS: 15h00 à 16h00	
+##newentry##;M15 D1 - RSÉQP. Robergeen PM;2023-09-06;Glace - BSR;BSR - Entrainement / Vidéo / Études;14h15 à 15h20;N. Carrier;C. Gallant - gardiens; ;Départ de ÉPL: 13h00;Retour vers ÉPL : 15h40	
+##newentry##;M15 D1 - RSÉQP. Robergeen PM;2023-09-07;HG - PATRO;13h00 à 15h00;P. Roberge;;;;;Muscu PALS: 15h00 à 16h00	
+##newentry##;M15 D1 - RSÉQP. Robergeen PM;2023-09-08;Glace - BSR;14h10 à 15h15 ;P. Roberge;G. Beaupré ;O. Desroches;BSR - Entrainement / Vidéo / Études;Départ de ÉPL: 12h15;Retour vers ÉPL : 15h30		
+##newentry##;M15 D1 - RSÉQP. Robergeen PM;2023-09-11;Glace - BSR;BSR - Entrainement / Vidéo / Études;14h15 à 15h20;P. Roberge;G. Beaupré - défenseurs;;Départ de ÉPL: 13h00;Retour vers ÉPL : 15h40	
+##newentry##;M15 D1 - RSÉQP. Robergeen PM;2023-09-12;Glace - Lévis;12h30 à 14h20;P. Roberge;G. Beaupré;O. Desroches;;;Muscu PALS: 15h00 à 16h00	
+##newentry##;M15 D1 - RSÉQP. Robergeen PM;2023-09-13;Glace - BSR;13h30 à 15h00;P. Roberge;C. Gallant - gardiens; ; ;Départ de ÉPL: 13h00;Retour vers ÉPL : 15h30	
+##newentry##;M15 D1 - RSÉQP. Robergeen PM;2023-09-14;Glace - BSR;13h30 à 15h00;P. Roberge;G. Beaupré; ; ;Départ de ÉPL: 13h00;Retour vers ÉPL : 15h30	
+##newentry##;M15 D1 - RSÉQP. Robergeen PM;2023-09-15;Glace - Lévis ;Partie PRÉ-SAISON;SSF vs Corsaires M15 D1;Lévis - 13h00;P. Roberge;O. Desroches;C. Gallant (G); 		
+##newentry##;M15 D1 - RSÉQP. Robergeen PM;2023-09-18;Glace - BSR;BSR - Entrainement / Vidéo / Études;14h15 à 15h20;P. Roberge;G. Beaupré - défenseurs;;Départ de ÉPL: 13h00;Retour vers ÉPL : 15h40	
+##newentry##;M15 D1 - RSÉQP. Robergeen PM;2023-09-19;Glace - Lévis;12h30 à 14h20;P. Roberge;G. Beaupré;O. Desroches;;;Muscu PALS: 15h00 à 16h00	
+##newentry##;M15 D1 - RSÉQP. Robergeen PM;2023-09-20;Glace - BSR;BSR - Entrainement / Vidéo / Études;14h15 à 15h20;N. Carrier;C. Gallant - gardiens; ;Départ de ÉPL: 13h00;Retour vers ÉPL : 15h40	
+##newentry##;M15 D1 - RSÉQP. Robergeen PM;2023-09-21;Partie PRÉ-SAISON;Corsaires M15 D1 vs Cardinal-Roy;15h00 - Loretteville;P. Roberge / O. Desroches;;Départ de l'ÉPL à 13h15;Retour vers l'ÉPL à 17h10;Arrêt au Maxi à 17h50 + ÉPL à 18h10	
+##newentry##;M15 D1 - RSÉQP. Robergeen PM;2023-09-22;Glace - Lévis ;Partie PRÉ-SAISON;ASL vs Corsaires M15 D1;Lévis - 13h30;P. Roberge;O. Desroches;G. Beaupré; 		
+##newentry##;M15 D1 - RSÉQP. Robergeen PM;2023-09-25;Partie PRÉ-SAISON;Corsaires M15 D1 vs SSF;15h15 - St-Augustin;P. Roberge / O. Desroches;;Départ de l'ÉPL à 13h15;Retour vers l'ÉPL à 17h20;Arrêt au Maxi à 18h00 + ÉPL à 18h20	
+##newentry##;M15 D1 - RSÉQP. Robergeen PM;2023-09-26;Glace - Lévis;12h30 à 14h20;P. Roberge;G. Beaupré;O. Desroches;;;Muscu PALS: 15h00 à 16h00	
+##newentry##;M15 D1 - RSÉQP. Robergeen PM;2023-09-27;Glace - BSR;BSR - Entrainement / Vidéo / Études;14h15 à 15h20;P. Roberge;C. Gallant - gardiens;P. Pouliot;Départ de ÉPL: 13h00;Retour vers ÉPL : 15h40	
+##newentry##;M15 D1 - RSÉQP. Robergeen PM;2023-09-28;Glace - Lévis;13h00 à 14h20;P. Roberge;G. Beaupré; ;;;Muscu PALS: 15h00 à 16h00	
+##newentry##;M15 D1 - RSÉQP. Robergeen PM;2023-09-29;Glace - Lévis ;Partie SAISON #1;PWD vs Corsaires M15 D1;Lévis - 13h00;P. Roberge;O. Desroches;G. Beaupré / C. Gallant (G); 
+
+##newentry##;M18 D1 - RSÉQPL. Lévesqueen PM;2023-09-01;ÉPL - Classe - 13h00 à 13h45;Glace - Lévis (avec M18-D2);14h25 à 15h50;PL. Lévesque;C. Bilodeau;G. Beaupré;			
+##newentry##;M18 D1 - RSÉQPL. Lévesqueen PM;2023-09-05;Glace - BSR;13h00 à 14h05;PL. Lévesque;C. Bilodeau ;BSR - Entrainement / Vidéo / Études;Départ de ÉPL: 12h15;Retour vers ÉPL : 15h30	
+##newentry##;M18 D1 - RSÉQPL. Lévesqueen PM;2023-09-06;Glace - Lévis;12h30 à 14h20;PL. Lévesque;C.  Bilodeau;P. Pouliot;;Muscu PALS: 15h00 à 16h00	
+##newentry##;M18 D1 - RSÉQPL. Lévesqueen PM;2023-09-07;Glace - BSR;BSR - Entrainement / Vidéo / Études;14h15 à 15h20;PL. Lévesque;G. Beaupré - défenseurs;Départ de ÉPL: 13h00;Retour vers ÉPL : 15h40	
+##newentry##;M18 D1 - RSÉQPL. Lévesqueen PM;2023-09-08;Salle PERFO 13h00 à 14h00;DEK HOCKEY PATRO;14h00 à 15h30;PL. Lévesque; ;;		
+##newentry##;M18 D1 - RSÉQPL. Lévesqueen PM;2023-09-11;Glace - BSR;13h00 à 14h05;PL. Lévesque;G. Beaupré - défenseurs;Départ de ÉPL: 12h15;Retour vers ÉPL : 14h30;Muscu PALS: 15h00 à 16h00	
+##newentry##;M18 D1 - RSÉQPL. Lévesqueen PM;2023-09-12;Glace - BSR;13h00 à 14h05;PL. Lévesque;C. Gallants - gardiens;BSR - Entrainement / Vidéo / Études;Départ de ÉPL: 12h15;Retour vers ÉPL : 15h30	
+##newentry##;M18 D1 - RSÉQPL. Lévesqueen PM;2023-09-13;Partie PRÉ-SAISON;Corsaires M18 D1 vs Cardinal-Roy;14h30 - Pavillon ;PL. Lévesque / P. Pouliot;Départ de l'ÉPL à 13h00;Retour vers l'ÉPL à 16h30;Arrêt au Maxi à 17h10 + ÉPL à 17h30	
+##newentry##;M18 D1 - RSÉQPL. Lévesqueen PM;2023-09-14;HG - PATRO;13h00 à 15h00;PL. Lévesque;;;;Muscu PALS: 15h00 à 16h00	
+##newentry##;M18 D1 - RSÉQPL. Lévesqueen PM;2023-09-15;Glace - Lévis ;Partie PRÉ-SAISON;SSF vs Corsaires M18 D1;Lévis - 15h00;PL. Lévesque;C. Gallant (G) / P. Pouliot; 		
+##newentry##;M18 D1 - RSÉQPL. Lévesqueen PM;2023-09-18;Glace - BSR;13h00 à 14h05;PL. Lévesque;G. Beaupré - défenseurs;Départ de ÉPL: 12h15;Retour vers ÉPL : 14h30;Muscu PALS: 15h00 à 16h00	
+##newentry##;M18 D1 - RSÉQPL. Lévesqueen PM;2023-09-19;Glace - BSR;13h00 à 14h05;PL. Lévesque;C. Gallants - gardiens;BSR - Entrainement / Vidéo / Études;Départ de ÉPL: 12h15;Retour vers ÉPL : 15h30	
+##newentry##;M18 D1 - RSÉQPL. Lévesqueen PM;2023-09-20;Glace - Lévis;12h30 à 14h20;PL. Lévesque;C.  Bilodeau;P. Pouliot;;ÉPL - Terrain ext. ou classe	
+##newentry##;M18 D1 - RSÉQPL. Lévesqueen PM;2023-09-21;Glace - Lévis ;Partie PRÉ-SAISON;Cardinal-Roy vs Corsaires M18 D1;Lévis - 14h30;PL. Lévesque;P. Pouliot ; 	
+##newentry##;M18 D1 - RSÉQPL. Lévesqueen PM;2023-09-22;Salle PERFO 13h00 à 14h00;DEK HOCKEY PATRO;14h00 à 15h30;PL. Lévesque; ;;		
+##newentry##;M18 D1 - RSÉQPL. Lévesqueen PM;2023-09-25;Glace - BSR;13h30 à 15h00;PL. Lévesque;G. Beaupré; ;Départ de ÉPL: 13h00;Retour vers ÉPL : 15h30	
+##newentry##;M18 D1 - RSÉQPL. Lévesqueen PM;2023-09-26;Partie PRÉ-SAISON;Corsaires M18 D1 vs SSF;15h15 - ST-AUGUSTIN;PL. Lévesque / P. Pouliot;Départ de l'ÉPL à 13h30;Retour vers l'ÉPL à 17h20;Arrêt au Maxi à 18h00 + ÉPL à 18h20	
+##newentry##;M18 D1 - RSÉQPL. Lévesqueen PM;2023-09-27;Glace - BSR;13h00 à 14h05;PL. Lévesque;C. Gallant - gardiens / P. Pouliot;Départ de ÉPL: 12h15;Retour vers ÉPL : 14h30;Muscu PALS: 15h00 à 16h00	
+##newentry##;M18 D1 - RSÉQPL. Lévesqueen PM;2023-09-28;Glace - BSR;13h30 à 15h00;N. Carrier;C. Gallant ; ;Départ de ÉPL: 13h00;Retour vers ÉPL : 15h30	
+##newentry##;M18 D1 - RSÉQPL. Lévesqueen PM;2023-09-29;Glace - Lévis ;Partie SAISON #1;PWD vs Corsaires M18 D1;Lévis - 15h00;PL. Lévesque;P. Pouliot / C. Gallant (G); 
+
+##newentry##;M13 D1SEC. 1en AMG. Beaupré ;2023-09-01;ÉPL - Classe : 8h00 à 9h00 ;DEK HOCKEY;PATRO : 9h15 à 10h30;G. Beaupré; ;;;			
+##newentry##;M13 D1SEC. 1en AMG. Beaupré ;2023-09-05;Glace - BSR;8h30 à 10h30;G. Beaupré;PL. Giguère;;;Départ de ÉPL : 8h00;Retour à ÉPL : 10h45	
+##newentry##;M13 D1SEC. 1en AMG. Beaupré ;2023-09-06;ÉPL - Classe/EXT. : 8h00 à 9h00 ;Glace - Lévis ;9h30 à 11h00;G. Beaupré *;P. Roberge - gardiens; ;;	
+##newentry##;M13 D1SEC. 1en AMG. Beaupré ;2023-09-07;ÉPL - Gym. # : 8h00 à 9h00 ;Glace - Lévis ;9h45 à 11h00;G. Beaupré;X. Robitaille;PL. Giguère;; 	
+##newentry##;M13 D1SEC. 1en AMG. Beaupré ;2023-09-08;Hors-glace multi-sports;PATRO : 9h15 à 10h30;G. Beaupré  ;Glace - Lévis ;Partie PRÉ-SAISON;SSF vs Corsaires M13 D1;Lévis - 15h30 (sortie P5 14h30 + absP6);G. Beaupré / X. Robitaille		
+##newentry##;M13 D1SEC. 1en AMG. Beaupré ;2023-09-11;Glace - Lévis - SKILLS;8h15 à 9h05;G. Beaupré;P. Roberge - gardiens;X. Robitaille;;;ÉPL (muscu PALS) : 10h00 à 11h00	
+##newentry##;M13 D1SEC. 1en AMG. Beaupré ;2023-09-12;Glace - LAUZON;8h30 à 10h30;G. Beaupré;adjoint ;;;Départ de ÉPL: 8h00;Retour vers ÉPL: 10h45	
+##newentry##;M13 D1SEC. 1en AMG. Beaupré ;2023-09-13;ÉPL - Classe/EXT. : 8h00 à 9h00 ;Glace - Lévis ;9h30 à 11h00;G. Beaupré *;P. Roberge;O. Desroches ?;;	
+##newentry##;M13 D1SEC. 1en AMG. Beaupré ;2023-09-14;Partie Pré-Saison;Corsaires M13 D1 vs Cardinal-Roy;8h30 - Loretteville;G. Beaupré / X. Robitaille;;Départ de l'ÉPL à 6h50 + MAXI à 7h10;Retour vers l'ÉPL à 10h10;	
+##newentry##;M13 D1SEC. 1en AMG. Beaupré ;2023-09-15;Partie Pré-Saison;Corsaires M13 D1 vs ASL;10h00 - 3-Glaces;G. Beaupré / X. Robitaille;;Départ de l'ÉPL à 8h15 + MAXI à 8h30;Retour vers l'ÉPL à 11h40;Arrivée ÉPL vers 12h20 - retard P4		
+##newentry##;M13 D1SEC. 1en AMG. Beaupré ;2023-09-18;Glace - Lévis - SKILLS;8h15 à 9h05;G. Beaupré;P. Roberge - gardiens;X. Robitaille;;;ÉPL (muscu PALS) : 10h00 à 11h00	
+##newentry##;M13 D1SEC. 1en AMG. Beaupré ;2023-09-19;Glace - LAUZON;8h30 à 10h30;G. Beaupré;adjoint ;;;Départ de ÉPL: 8h00;Retour vers ÉPL: 10h45	
+##newentry##;M13 D1SEC. 1en AMG. Beaupré ;2023-09-20;Salle PERFO 8h00 à 8h40;Glace - LAUZON;9h30 à 10h45;P. Roberge;O. Desroches;;Départ de ÉPL: 8h55;Retour vers ÉPL: 11h00	
+##newentry##;M13 D1SEC. 1en AMG. Beaupré ;2023-09-21;ÉPL - Gym. #??? : 8h00 à 9h00 ;Glace - Lévis;9h45 à 11h00;G. Beaupré;X. Robitaille;; ; 	
+##newentry##;M13 D1SEC. 1en AMG. Beaupré ;2023-09-22;ÉPL - Gym. #??? : 8h00 à 9h00 ;G. Beaupré  ;Glace - Lévis ;Partie PRÉ-SAISON;Corsaires M13 D1 vs SSF;SSF - 15h00 (abs P5-P6);G. Beaupré;X. Robitaille		
+##newentry##;M13 D1SEC. 1en AMG. Beaupré ;2023-09-25;Glace - Lévis - SKILLS;8h15 à 9h05;G. Beaupré;P. Roberge - gardiens;X. Robitaille;;;ÉPL (muscu PALS) : 10h00 à 11h00	
+##newentry##;M13 D1SEC. 1en AMG. Beaupré ;2023-09-26;Glace - LAUZON;8h30 à 10h30;G. Beaupré;S. Labrecque;;;Départ de ÉPL: 8h00;Retour vers ÉPL: 10h45	
+##newentry##;M13 D1SEC. 1en AMG. Beaupré ;2023-09-27;ÉPL - Gym. #??? : 8h00 à 9h00 ;Glace - LAUZON;9h30 à 10h45;P. Roberge;O. Desroches;;Départ de ÉPL: 8h55;Retour vers ÉPL: 11h00	
+##newentry##;M13 D1SEC. 1en AMG. Beaupré ;2023-09-28;ÉPL - Gym. #??? : 8h00 à 9h00 ;Glace - LAUZON;9h40 à 10h50;G. Beaupré;PL. Giguère;;Départ de ÉPL : 9h05;Retour à ÉPL : 11h00	
+##newentry##;M13 D1SEC. 1en AMG. Beaupré ;2023-09-29;ÉPL (muscu PALS) : 8h00 à 9h00;Hors-glace multi-sports;PATRO : 9h15 à 10h30;X. Robitaille;;;;
+##newentry##;M15 D2SEC. 2-3en AMC. Bilodeau ;2023-09-01;ÉPL - Classe : 8h00 à 9h00 ;Glace - Lévis ;10h15 à 11h10;C. Bilodeau;PL. Lévesque;P. Roberge - gardiens;; 			
+##newentry##;M15 D2SEC. 2-3en AMC. Bilodeau ;2023-09-05;Glace - Lévis ;8h15 à 9h35;C. Bilodeau;PL. Lévesque; ; ;;ÉPL (muscu PALS) : 10h00 à 11h00	
+##newentry##;M15 D2SEC. 2-3en AMC. Bilodeau ;2023-09-06;Salle PERFO 8h00 à 8h40;Glace - LAUZON;9h30 à 10h45;C. Bilodeau;PL. Lévesque;;Départ de ÉPL: 8h55;Retour vers ÉPL: 11h00	
+##newentry##;M15 D2SEC. 2-3en AMC. Bilodeau ;2023-09-07;Glace - St-Henri;9h00 à 10h30 ;C. Bilodeau;PL. Lévesque;;;Départ de ÉPL : 7h50;Retour à ÉPL : 10h40	
+##newentry##;M15 D2SEC. 2-3en AMC. Bilodeau ;2023-09-08;Glace - LAUZON;8h30 à 10h30;C. Bilodeau;PL. Lévesque;;;Départ de ÉPL: 8h00;Retour vers ÉPL: 10h45		
+##newentry##;M15 D2SEC. 2-3en AMC. Bilodeau ;2023-09-11;Glace - LAUZON;8h30 à 10h30;C. Bilodeau;PL. Lévesque;;;Départ de ÉPL: 8h00;Retour vers ÉPL: 10h45	
+##newentry##;M15 D2SEC. 2-3en AMC. Bilodeau ;2023-09-12;ÉPL - Gym. #??? : 8h00 à 9h00 ;Glace - Lévis - SKILLS;9h45 à 11h00;C. Bilodeau;P. Roberge - gardiens;PL. Lévesque; ; 	
+##newentry##;M15 D2SEC. 2-3en AMC. Bilodeau ;2023-09-13;Salle PERFO 8h00 à 8h40;Glace - LAUZON;9h30 à 10h45;C. Bilodeau;PL. Lévesque;;Départ de ÉPL: 8h55;Retour vers ÉPL: 11h00	
+##newentry##;M15 D2SEC. 2-3en AMC. Bilodeau ;2023-09-14;Glace - Lévis ;Partie - Pré-Saison;SSF vs Corsaires M15 D2;Lévis - 9h30;C. Bilodeau;PL. Lévesque ;; 	
+##newentry##;M15 D2SEC. 2-3en AMC. Bilodeau ;2023-09-15;Partie Pré-Saison;Corsaires M15 D2 vs Cardinal-Roy;8h30 - Loretteville;C. Bilodeau / PL. Lévesque;;Départ de l'ÉPL à 6h45 + MAXI à 7h05;Retour vers l'ÉPL à 10h10;		
+##newentry##;M15 D2SEC. 2-3en AMC. Bilodeau ;2023-09-18;Glace - LAUZON;8h30 à 10h30;C. Bilodeau;PL. Lévesque;;;Départ de ÉPL: 8h00;Retour vers ÉPL: 10h45	
+##newentry##;M15 D2SEC. 2-3en AMC. Bilodeau ;2023-09-19;ÉPL - Gym. #??? : 8h00 à 9h00 ;Glace - Lévis - SKILLS;9h45 à 11h00;C. Bilodeau;P. Roberge - gardiens;PL. Lévesque; ; 	
+##newentry##;M15 D2SEC. 2-3en AMC. Bilodeau ;2023-09-20;ÉPL - Classe/EXT. : 8h00 à 9h00 ;Glace - Lévis ;9h30 à 11h00;C. Bilodeau;PL. Lévesque; ;;	
+##newentry##;M15 D2SEC. 2-3en AMC. Bilodeau ;2023-09-21;Partie Pré-Saison;Corsaires M15 D2 vs SSF;9h00 - SSF;C. Bilodeau / PL. Lévesque;;Départ de l'ÉPL à 7h15 + MAXI à 7h35;Retour vers l'ÉPL à 10h40;	
+##newentry##;M15 D2SEC. 2-3en AMC. Bilodeau ;2023-09-22;Hors-glace multi-sports;PATRO : 9h15 à 10h30;C. Bilodeau;Glace - Lévis ;Partie PRÉ-SAISON;ASL vs Corsaires M15 D2 ;Lévis - 15h30 (sortie P5 14h20 et abs P6);C. Bilodeau / PL. Lévesque		
+##newentry##;M15 D2SEC. 2-3en AMC. Bilodeau ;2023-09-25;Glace - LAUZON;8h30 à 10h30;C. Bilodeau;PL. Lévesque;;;Départ de ÉPL: 8h00;Retour vers ÉPL: 10h45	
+##newentry##;M15 D2SEC. 2-3en AMC. Bilodeau ;2023-09-26;ÉPL - Gym. #??? : 8h00 à 9h00 ;Glace - Lévis - SKILLS;9h45 à 11h00;C. Bilodeau;P. Roberge - gardiens;PL. Lévesque; ; 	
+##newentry##;M15 D2SEC. 2-3en AMC. Bilodeau ;2023-09-27;Salle PERFO 8h00 à 9h00;Glace - Lévis ;9h30 à 11h00;C. Bilodeau;PL. Lévesque; ;;	
+##newentry##;M15 D2SEC. 2-3en AMC. Bilodeau ;2023-09-28;Glace - Lévis ;Partie - SAISON (DÉBUT);SSF vs Corsaires M15 D2;Lévis - 9h30;C. Bilodeau;PL. Lévesque ;; 	
+##newentry##;M15 D2SEC. 2-3en AMC. Bilodeau ;2023-09-29;ÉPL - Gym. # : 8h00 à 9h00 ;DEK HOCKEY;PATRO : 9h15 à 10h30;C. Bilodeau; ;;;
+##newentry##;PHCASec. 1en AMNicolas Carrier;2023-09-01;ÉPL - EXT. : 8h00 à 9h00 ;Glace - Lévis ;9h15 à 10h05;N. Carrier;PL. Lévesque;P. Roberge - gardiens;; 			
+##newentry##;PHCASec. 1en AMNicolas Carrier;2023-09-05;ÉPL - Classe : 8h00 à 9h00 ;Glace - Lévis ;9h45 à 11h00;N. Carrier;PL. Lévesque;;; 		
+##newentry##;PHCASec. 1en AMNicolas Carrier;2023-09-07;ÉPL - Gym. # : 8h00 à 9h00 ;DEK HOCKEY;PATRO : 9h15 à 10h30;N. Carrier; ;;;	
+##newentry##;PHCASec. 1en AMNicolas Carrier;2023-09-08;Glace - Lévis ;8h15 à 9h35;N. Carrier;P. Roberge - gardiens;;;;ÉPL (muscu PALS) : 10h00 à 11h00		
+##newentry##;PHCASec. 1en AMNicolas Carrier;2023-09-11;ÉPL - Gym. #??? : 8h00 à 9h00 ;Glace - Lévis - SKILLS;9h45 à 11h00;N. Carrier;P. Roberge - gardiens;X. Robitaille; ; 	
+##newentry##;PHCASec. 1en AMNicolas Carrier;2023-09-12;Glace - BSR;8h30 à 10h30;N. Carrier;S. Labrecque;;;Départ de ÉPL : 8h00;Retour à ÉPL : 10h45		
+##newentry##;PHCASec. 1en AMNicolas Carrier;2023-09-14;ÉPL (muscu PALS) : 8h00 à 9h00;DEK HOCKEY;PATRO : 9h15 à 10h30;N. Carrier;OU;Hors-glace multi-sports;PATRO : 9h15 à 10h30;	
+##newentry##;PHCASec. 1en AMNicolas Carrier;2023-09-15;Glace - Lévis ;8h15 à 9h05;N. Carrier;PL. Giguère; ;;;ÉPL (muscu PALS) : 10h00 à 11h00		
+##newentry##;PHCASec. 1en AMNicolas Carrier;2023-09-18;ÉPL - Gym. #??? : 8h00 à 9h00 ;Glace - Lévis - SKILLS;9h45 à 11h00;N. Carrier;P. Roberge - gardiens;X. Robitaille; ; 	
+##newentry##;PHCASec. 1en AMNicolas Carrier;2023-09-19;Glace - BSR;8h30 à 10h30;N. Carrier;S. Labrecque;;;Départ de ÉPL : 8h00;Retour à ÉPL : 10h45		
+##newentry##;PHCASec. 1en AMNicolas Carrier;2023-09-21;ÉPL (muscu PALS) : 8h00 à 9h00;DEK HOCKEY;PATRO : 9h15 à 10h30;N. Carrier;OU;Hors-glace multi-sports;PATRO : 9h15 à 10h30;	
+##newentry##;PHCASec. 1en AMNicolas Carrier;2023-09-22;Glace - Lévis ;8h15 à 9h35; N. Carrier;PL. Giguère; ;;;ÉPL (muscu PALS) : 10h00 à 11h00		
+##newentry##;PHCASec. 1en AMNicolas Carrier;2023-09-25;ÉPL - Gym. #??? : 8h00 à 9h00 ;Glace - Lévis - SKILLS;9h45 à 11h00;N. Carrier;P. Roberge - gardiens;X. Robitaille; ; 	
+##newentry##;PHCASec. 1en AMNicolas Carrier;2023-09-26;ÉPL - Gym. # : 8h00 à 9h00 ;DEK HOCKEY;PATRO : 9h15 à 10h30;N. Carrier; ;;;		
+##newentry##;PHCASec. 1en AMNicolas Carrier;2023-09-28;ÉPL (muscu PALS) : 8h00 à 9h00;Hors-glace multi-sports;PATRO : 9h15 à 10h30;N. Carrier;;;;	
+##newentry##;PHCASec. 1en AMNicolas Carrier;2023-09-29;ÉPL - Gym. #??? : 8h00 à 9h00 ;Glace - Lévis ;9h45 à 11h00;N. Carrier ;G. Beaupré - défenseurs;PL. Lévesque; ; 
+##newentry##;PHCASec. 2-3en AMC. Gallant ;2023-09-01;Glace - Lévis ;8h15 à 9h05;C. Gallant;PL. Lévesque;P. Roberge - gardiens;;;ÉPL (muscu PALS) : 10h00 à 11h00			
+##newentry##;PHCASec. 2-3en AMC. Gallant ;2023-09-05;Glace - LAUZON ;8h30 à 11h00;C. Gallant;S. Labrecque; ;;Départ de ÉPL : 7h50;Retour à ÉPL : 10h45		
+##newentry##;PHCASec. 2-3en AMC. Gallant ;2023-09-07;ÉPL (muscu PALS) : 8h00 à 9h00;Hors-glace multi-sports;PATRO : 9h15 à 10h30;C. Gallant;;;;	
+##newentry##;PHCASec. 2-3en AMC. Gallant ;2023-09-08;ÉPL - Gym. #??? : 8h00 à 9h00 ;Glace - Lévis ;9h45 à 11h00;C. Gallant;P. Roberge - gardiens;; ; 		
+##newentry##;PHCASec. 2-3en AMC. Gallant ;2023-09-11;ÉPL (muscu PALS) : 8h00 à 9h00;DEK HOCKEY;PATRO : 9h15 à 10h30;C. Gallant;OU;Hors-glace multi-sports;PATRO : 9h15 à 10h30;	
+##newentry##;PHCASec. 2-3en AMC. Gallant ;2023-09-12;Glace - Lévis - SKILLS;8h15 à 9h05;C. Gallant;P. Roberge - gardiens;PL. Lévesque;;;ÉPL (muscu PALS) : 10h00 à 11h00		
+##newentry##;PHCASec. 2-3en AMC. Gallant ;2023-09-14;Glace - LAUZON;8h30 à 10h30 ;C. Gallant;O. Desroches;;;Départ de ÉPL : 8h00;Retour à ÉPL : 10h40	
+##newentry##;PHCASec. 2-3en AMC. Gallant ;2023-09-15;ÉPL - Gym. #??? : 8h00 à 9h00 ;Glace - Lévis ;9h45 à 11h00;C. Gallant;PL. Giguère; ; ; 		
+##newentry##;PHCASec. 2-3en AMC. Gallant ;2023-09-18;ÉPL (muscu PALS) : 8h00 à 9h00;DEK HOCKEY;PATRO : 9h15 à 10h30;C. Gallant;OU;Hors-glace multi-sports;PATRO : 9h15 à 10h30;	
+##newentry##;PHCASec. 2-3en AMC. Gallant ;2023-09-19;Glace - Lévis - SKILLS;8h15 à 9h05;C. Gallant;P. Roberge - gardiens;PL. Lévesque;;;ÉPL (muscu PALS) : 10h00 à 11h00		
+##newentry##;PHCASec. 2-3en AMC. Gallant ;2023-09-21;Glace - LAUZON;8h30 à 10h30 ;C. Gallant;PL. Giguère;;;Départ de ÉPL : 8h00;Retour à ÉPL : 10h40	
+##newentry##;PHCASec. 2-3en AMC. Gallant ;2023-09-22;ÉPL - Gym. #??? : 8h00 à 9h00 ;Glace - Lévis ;9h45 à 11h00;C. Gallant;PL. Giguère; ; ; 		
+##newentry##;PHCASec. 2-3en AMC. Gallant ;2023-09-25;ÉPL (muscu PALS) : 8h00 à 9h00;DEK HOCKEY;PATRO : 9h15 à 10h30;C. Gallant;OU;Hors-glace multi-sports;PATRO : 9h15 à 10h30;	
+##newentry##;PHCASec. 2-3en AMC. Gallant ;2023-09-26;Glace - Lévis - SKILLS;8h15 à 9h05;C. Gallant;P. Roberge - gardiens;PL. Lévesque;;;ÉPL (muscu PALS) : 10h00 à 11h00		
+##newentry##;PHCASec. 2-3en AMC. Gallant ;2023-09-28;Glace - LAUZON;8h30 à 9h30;C. Gallant;PL. Giguère;;;Départ de ÉPL : 8h00;Retour à ÉPL : 10h40	
+##newentry##;PHCASec. 2-3en AMC. Gallant ;2023-09-29;Glace - Lévis ;8h15 à 9h35;C. Gallant;G. Beaupré - défenseurs;PL. Lévesque;;;ÉPL (muscu PALS) : 10h00 à 11h00
+##newentry##;PHCASec. 4-5en AMPL. Giguère ;2023-09-01;ÉPL (muscu PALS) : 8h00 à 9h00;Hors-glace multi-sports;PATRO : 9h15 à 10h30;PL. Giguère;;;;			
+##newentry##;PHCASec. 4-5en AMPL. Giguère ;2023-09-05;ÉPL (muscu PALS) : 8h00 à 9h00;DEK HOCKEY;PATRO : 9h15 à 10h30;P. Roberge; ;;;		
+##newentry##;PHCASec. 4-5en AMPL. Giguère ;2023-09-07;Glace - Lévis ;8h15 à 9h35;P. Roberge ;PL. Giguère;X. Robitaille;;;ÉPL (muscu PALS) : 10h00 à 11h00	
+##newentry##;PHCASec. 4-5en AMPL. Giguère ;2023-09-08;Glace - BSR;8h50 à 11h00;PL. Giguère;S. Labrecque;;;Départ de ÉPL: 8h00;Retour vers ÉPL: 10h40		
+##newentry##;PHCASec. 4-5en AMPL. Giguère ;2023-09-11;Glace - BSR;8h30 à 10h30;PL. Giguère;S. Labrecque;;;Départ de ÉPL : 8h00;Retour à ÉPL : 10h45	
+##newentry##;PHCASec. 4-5en AMPL. Giguère ;2023-09-12;ÉPL (muscu PALS) : 8h00 à 9h00;DEK HOCKEY;PATRO : 9h15 à 10h30;PL. Giguère;OU;Hors-glace multi-sports;PATRO : 9h15 à 10h30;		
+##newentry##;PHCASec. 4-5en AMPL. Giguère ;2023-09-14;Glace - Lévis;8h15 à 9h20;P. Roberge  ;PL. Lévesque; ;;;ÉPL (muscu PALS) : 10h00 à 11h00	
+##newentry##;PHCASec. 4-5en AMPL. Giguère ;2023-09-15;Glace - BSR;8h50 à 11h00;P. Roberge;S. Labrecque;;;Départ de ÉPL: 8h00;Retour vers ÉPL: 10h40		
+##newentry##;PHCASec. 4-5en AMPL. Giguère ;2023-09-18;Glace - BSR;8h30 à 10h30;PL. Giguère;S. Labrecque;;;Départ de ÉPL : 8h00;Retour à ÉPL : 10h45	
+##newentry##;PHCASec. 4-5en AMPL. Giguère ;2023-09-19;ÉPL (muscu PALS) : 8h00 à 9h00;DEK HOCKEY;PATRO : 9h15 à 10h30;PL. Giguère;OU;Hors-glace multi-sports;PATRO : 9h15 à 10h30;		
+##newentry##;PHCASec. 4-5en AMPL. Giguère ;2023-09-21;Glace - Lévis;8h15 à 9h35;P. Roberge  ;O. Desroches; ;;;ÉPL (muscu PALS) : 10h00 à 11h00	
+##newentry##;PHCASec. 4-5en AMPL. Giguère ;2023-09-22;Glace - BSR;8h50 à 11h00;S. Labrecque (charge);X. Robitaille;P. Roberge (horaires);;Départ de ÉPL: 8h00;Retour vers ÉPL: 10h40		
+##newentry##;PHCASec. 4-5en AMPL. Giguère ;2023-09-25;Glace - BSR;8h30 à 10h30;PL. Giguère;S. Labrecque;;;Départ de ÉPL : 8h00;Retour à ÉPL : 10h45	
+##newentry##;PHCASec. 4-5en AMPL. Giguère ;2023-09-26;ÉPL (muscu PALS) : 8h00 à 9h00;Hors-glace multi-sports;PATRO : 9h15 à 10h30;PL. Giguère;;;;		
+##newentry##;PHCASec. 4-5en AMPL. Giguère ;2023-09-28;Glace - Lévis;8h15 à 9h20;P. Roberge  ;X. Robitaille; ;;;ÉPL (muscu PALS) : 10h00 à 11h00	
+##newentry##;PHCASec. 4-5en AMPL. Giguère ;2023-09-29;Glace - BSR;8h50 à 11h00;P. Roberge;S. Labrecque; ;;Départ de ÉPL: 8h00;Retour vers ÉPL: 10h40
